@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Professional\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (SFML.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Game.cpp
+C:\Users\HP\OneDrive\Desktop\SFMLtemplate-master\Game.cpp(129,21): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  SFML.vcxproj -> C:\Users\HP\OneDrive\Desktop\SFMLtemplate-master\x64\Debug\SFMLtemp.exe
